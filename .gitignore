@@ -1,0 +1,5 @@
+.venv-qiskit/
+.venv/
+__pycache__/
+*.pyc
+/.devcontainer/
